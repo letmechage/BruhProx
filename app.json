@@ -1,7 +1,7 @@
 {
-  "name": "Ultraviolet App",
-  "description": "Node.js Ultraviolet instance",
-  "repository": "https://github.com/titaniumnetwork-dev/Ultraviolet-App",
+  "name": "BruhProx App",
+  "description": "Node.js BruhProx instance",
+  "repository": "https://github.com/z1g-project/BruhProx",
   "logo": "https://raw.githubusercontent.com/titaniumnetwork-dev/Ultraviolet-Static/main/public/uv.png",
-  "keywords": ["tomp", "ultraviolet"]
+  "keywords": ["tomp", "ultraviolet", "BruhProx"]
 }
