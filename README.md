@@ -4,7 +4,7 @@
 
 The deployable all-in-one bundle for BruhProx, a highly sophisticated proxy used for evading internet censorship or accessing websites in a controlled sandbox using the power of service-workers and more!
 
-## Deployment
+## Deployment Instructions
 
 [![Deploy to Heroku](https://binbashbanana.github.io/deploy-buttons/buttons/remade/heroku.svg)](https://github.com/z1g-project/BruhProx/wiki/Deploy-to-Heroku)
 [![Run on Replit](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://github.com/z1g-project/BruhProx/wiki/Run-on-Replit)
@@ -14,4 +14,12 @@ The deployable all-in-one bundle for BruhProx, a highly sophisticated proxy used
 
 If you are deploying to an alternative service or to a server, refer to [Deploy via terminal](https://github.com/z1g-project/BruhProx/wiki/Deploy-via-terminal).
 
-Additional information such as [customizing your frontend](https://github.com/z1g-project/BruhProx/wiki/Customizing-your-frontend) can be found on the [wiki](https://github.com/z1g-project/BruhProx/wiki).
+Additional information such as [customizing your frontend](https://github.com/z1g-project/BruhProx/wiki/Customizing-your-frontend) can be found on the [wiki](https://github.com/z1g-project/BruhProx/wiki) or the [z1g Project Docs](https://z1g-project.johnglynn2.repl.co/docs/BruhProx).
+
+## Credits
+API - Titaniumnetwork
+Porxy Engine - Notplayingallday383
+CSS & Assistant - hemvi
+
+## Copyright
+(C) Copyright 2021-2023 z1g Project
