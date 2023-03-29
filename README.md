@@ -11,6 +11,7 @@ The deployable all-in-one bundle for BruhProx, a highly sophisticated proxy used
 [![Deploy on Railway](https://binbashbanana.github.io/deploy-buttons/buttons/remade/railway.svg)](https://github.com/z1g-project/BruhProx/wiki/Deploy-on-Railway)
 [![Remix on Glitch](https://binbashbanana.github.io/deploy-buttons/buttons/remade/glitch.svg)](https://github.com/z1g-project/BruhProx/wiki/Remix-on-Glitch)
 [![Deploy to Koyeb](https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg)](https://github.com/z1g-project/BruhProx/wiki/Deploy-to-Koyeb)
+<a href="https://github.com/z1g-project/BruhProx/wiki/Deploy-to-Cyclic" rel="nofollow"><img src="https://camo.githubusercontent.com/9c27ca7ef5947882143d1c04145ac1341dc7088b908d07bcbceab3c240d0456a/68747470733a2f2f6465706c6f792e6379636c69632e6170702f627574746f6e2e737667" alt="Deploy to Cyclic" data-canonical-src="https://deploy.cyclic.app/button.svg"></a>
 
 If you are deploying to an alternative service or to a server, refer to [Deploy via terminal](https://github.com/z1g-project/BruhProx/wiki/Deploy-via-terminal).
 
