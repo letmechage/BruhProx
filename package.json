@@ -13,16 +13,25 @@
   "keywords": [
     "proxy"
   ],
-  "author": "",
-  "license": "GPL-3.0-or-later",
+  "author": "z1g Project",
+  "license": "MIT",
   "dependencies": {
-    "bruhprox-core": "^6.1.0",
     "@tomphttp/bare-server-node": "^1.2.5",
+    "bruhprox-core": "^6.1.0",
     "express": "^4.18.2",
     "ultraviolet-static": "github:z1g-project/BruhProx-Static"
   },
   "devDependencies": {
     "eslint": "^8.36.0",
     "prettier": "^2.8.4"
-  }
+  },
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/z1g-project/bruhprox.git"
+  },
+  "bugs": {
+    "url": "https://github.com/z1g-project/bruhprox/issues"
+  },
+  "homepage": "https://github.com/z1g-project/bruhprox#readme"
 }
