@@ -4,6 +4,8 @@
 
 The deployable all-in-one bundle for BruhProx, a highly sophisticated proxy used for evading internet censorship or accessing websites in a controlled sandbox using the power of service-workers and more!
 
+<img src="https://img.shields.io/github/actions/workflow/status/z1g-project/bruhprox/eslint.yml">
+
 ## Deployment Instructions
 
 [![Deploy to Heroku](https://binbashbanana.github.io/deploy-buttons/buttons/remade/heroku.svg)](https://github.com/z1g-project/BruhProx/wiki/Deploy-to-Heroku)
