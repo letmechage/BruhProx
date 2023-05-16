@@ -19,7 +19,7 @@
     "@tomphttp/bare-server-node": "^1.2.5",
     "bruhprox-core": "^6.1.3",
     "express": "^4.18.2",
-    "ultraviolet-static": "github:z1g-project/BruhProx-Static"
+    "bruhprox-static": "github:z1g-project/BruhProx-Static"
   },
   "devDependencies": {
     "eslint": "^8.36.0",
